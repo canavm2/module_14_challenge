@@ -45,7 +45,9 @@ The content of the course is owned and managed by UC Berkeley Fintech Bootcamp.
 
 ## Tuning the Baseline Algorithm
 
-I tried numerous adjustments including 2, 4 and 5 month training periods, and SMA periods of short: 3-20 and long: 80-150.  None seemed to improve the model.  The base model seems to have the best returns.  Graph below.
+I tried numerous adjustments including 2, 4 and 5 month training periods, and SMA periods of short: 3-20 and long: 80-150.  None seemed to improve the model.  The base model seems to have the best returns.  Graph here:
+
+![Image of jupyter lab](jupyter_image_2.PNG)
 
 
 ## Evaluation Report
