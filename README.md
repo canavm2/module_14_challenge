@@ -42,3 +42,10 @@ Michael Canavan
 ## License
 
 The content of the course is owned and managed by UC Berkeley Fintech Bootcamp.
+
+
+## Evaluation Report
+
+The Logistic Regression model behaves much different than the original SVM model.  The new model creates a model that becomes substantially divergent between actual returns and model returns.  This can work both for and against the results.  The LR strategy has substantially different recall values than the original model.  With recall as recall = TPs / (TPs + FNs), the model seems worse at detecting when to stay in, and better when to get out.  this is not a problem with the algorithm for hte test data, until the very end when an incorrect sell signal ruins most of the models gains.
+
+![Image of jupyter lab](jupyter_image.PNG)
